@@ -1,0 +1,10 @@
+{
+  "name": "dsa-bootcamp-javascript",
+  "version": "1.0.0",
+  "description": "JavaScript solutions for Kunal Kushwaha's DSA Bootcamp",
+  "type": "module",
+  "main": "index.js",
+  "keywords": ["dsa", "javascript", "leetcode"],
+  "author": "Krishna",
+  "license": "MIT"
+}
